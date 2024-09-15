@@ -7,7 +7,7 @@ Como um logo, você ira utilizar peças para criar algoritmos, ou seja, para res
 
 ## Peças de uma linguagem
 
-- Comentarios
+- [x] Comentarios
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -20,3 +20,18 @@ Como um logo, você ira utilizar peças para criar algoritmos, ou seja, para res
 Coletar os dados
 Processar os dados (manupular, alterae ...)
 Apresentar os dados
+
+## Escopo e variáveis
+
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados:
+
+Strings (textos): ""  ''  ``
+Number:2,  1.4
+Function
+
+# Operadores
+
+Operadores de atribuição de valor sinal =

@@ -23,7 +23,7 @@ Apresentar os dados
 
 ## Escopo e variáveis
 
-[x] Variáveis globais e locais
+[x] Variáveis globais e locais'
 [x] Constantes
 
 ## Tipos de dados:
@@ -54,3 +54,7 @@ Apresentar os dados
 [x] criar, passar argumento
 [x] executar
 [s] arrow function / named function
+
+# Estrutura de repetição
+
+[x] while

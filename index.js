@@ -35,19 +35,31 @@
 //function criarMeta() {}
 
 //-------------------------------------------
-let meta = {
-    value: 'Ler um livro por mês',
-    checked: true,
+// let meta = {
+//     value: 'Ler um livro por mês',
+//     checked: true,
+// }
+
+// let metas = [
+//     meta,
+//     {
+//         value: "caminhar 20 minutos todo dia",
+//         checked: false
+//     }
+// ]
+
+// console.log(meta.value)
+// console.log(metas[1].value)
+// console.log(metas[0].value)
+
+//****************************** */
+
+const start = () => {
+    let count = 0
+    while(count < 10){
+        console.log(count)
+        count = count + 1
+    }
 }
 
-let metas = [
-    meta,
-    {
-        value: "caminhar 20 minutos todo dia",
-        checked: false
-    }
-]
-
-console.log(meta.value)
-console.log(metas[1].value)
-console.log(metas[0].value)
+start()

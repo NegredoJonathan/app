@@ -36,6 +36,7 @@ Apresentar os dados
 
 [X] Operadores de atribuição de valor sinal =
 [X] Operador de concatenação +, junção de 2 ou mais strings
+[x] Operadores de comparação: ==  !=  <= >=  < >
 
 ## Estrutura de dados:
 
@@ -62,6 +63,7 @@ Apresentar os dados
 # Condicionais
 
 [x] switch
+[x] if, else
 
 ## Modulos em Node.js:
 

@@ -37,12 +37,15 @@ Apresentar os dados
 [X] Operadores de atribuição de valor sinal =
 [X] Operador de concatenação +, junção de 2 ou mais strings
 [x] Operadores de comparação: ==  !=  <= >=  < >
+[x] Spread operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
 [X] Uma lista que contém qualquer tipo de dado
+[x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+Método = toda funçao que esta dentro de um objeto
 
 ### Objetos:
 

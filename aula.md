@@ -7,7 +7,7 @@ Como um logo, você ira utilizar peças para criar algoritmos, ou seja, para res
 
 ## Peças de uma linguagem
 
-- [x] Comentarios
+- Comentarios
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -17,9 +17,9 @@ Como um logo, você ira utilizar peças para criar algoritmos, ou seja, para res
 
 ## Fases da resolução de um problema
 
-Coletar os dados
-Processar os dados (manupular, alterae ...)
-Apresentar os dados
+[x] Coletar os dados
+[x] Processar os dados (manupular, alterae ...)
+[x] Apresentar os dados
 
 ## Escopo e variáveis
 
@@ -72,6 +72,12 @@ Método = toda funçao que esta dentro de um objeto
 
 [x] Importação de módulos (require, CommonJS)
 [x] Biblioteca 'inquirer' para criar prompts interativos
+[x] FS (file system)
+
+## JSON
+[x] Javascript Object Notation (.json)
+[x] JSON.parse() : transforma de JSON para JS
+[x] JSON.stringfy(): transforma de JS para JSon    
 
 ## Programação assincrona e Promisses:
 

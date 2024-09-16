@@ -65,6 +65,10 @@
 // start()
 //*********************** */
 
+
+
+//          PARA EXECTAR- TERMINAL: node index.js           //
+
 const { select, input, checkbox } = require('@inquirer/prompts')
 const fs = require("fs").promises
 
@@ -179,7 +183,7 @@ const deletarMetas = async () => {
         mensagem = "Não existem metas!"
         return
     }
-        
+
     const metasDesmarcadas = metas.map((meta) => {
         return { value: meta.value, checked: false }
     })
